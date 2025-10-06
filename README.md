@@ -1,6 +1,26 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7E3BF2&center=true&vCenter=true&width=500&lines=🎮+Unity+Developer+%26+Architect;🤖+Automation+Evangelist;🚀+CI%2FCD+Pipeline+Expert;✨+Shader+Artist+%26+Optimizer;🛠️+Tooling+Specialist" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000)
+  ![Automation](https://img.shields.io/badge/AUTOMATION-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![DevOps](https://img.shields.io/badge/DEVOPS-00D26A?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
 # 💫 Hello, I'm Vladislav Begachev!
 
-### Unity Developer & DevOps Enthusiast
+### **Transforming Game Development Through Intelligent Automation**
+
+I architect systems that turn complexity into simplicity. Where others see repetitive tasks, I see opportunities for elegant automation. Building the tools and pipelines that let creativity flourish while infrastructure works like magic.
+
+*"Automate once - liberate creativity for all."*
 
 I'm a professional Unity developer with expertise in game architecture, performance optimization, and development workflow automation. I specialize in creating scalable solutions and improving team productivity through efficient pipelines.
 
@@ -73,8 +93,6 @@ Integrating AI tools into my development workflow to enhance productivity and co
   <img src="https://github-readme-stats.vercel.app/api?username=vlpay&show_icons=true&theme=tokyonight" alt="Vladislav's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlpay&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlpay&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 📫 Let's Connect
