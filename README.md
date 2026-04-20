@@ -16,19 +16,6 @@
 
 # 💫 Hello, I'm Vladislav Begachev!
 
-### **Transforming Game Development Through Intelligent Automation**
-
-I architect systems that turn complexity into simplicity. Where others see repetitive tasks, I see opportunities for elegant automation. Building the tools and pipelines that let creativity flourish while infrastructure works like magic.
-
-*"Automate once - liberate creativity for all."*
-
-I'm a professional Unity developer with expertise in game architecture, performance optimization, and development workflow automation. I specialize in creating scalable solutions and improving team productivity through efficient pipelines.
-
-- 🌱 Currently expanding my expertise in **DevOps practices and pipeline optimization**
-- 👨‍💻 Working on **game architecture and performance optimization**
-- 💼 Building **scalable systems and reusable components**
-- 📚 Creating **comprehensive documentation and automation systems**
-
 ### 🎮 Unity Development Expertise
 
 **Core Skills:**
