@@ -74,14 +74,6 @@ Integrating AI tools into my development workflow to enhance productivity and co
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-000000?style=for-the-badge&logo=flstudio&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlpay&show_icons=true&theme=tokyonight" alt="Vladislav's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlpay&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ### 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlabuser)
