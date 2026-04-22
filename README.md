@@ -82,8 +82,6 @@ Integrating AI tools into my development workflow to enhance productivity and co
 
 ---
 
-*"Automate the routine - unleash creation"*
-
 <!---
 vlpay/vlpay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
