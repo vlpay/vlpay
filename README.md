@@ -1,88 +1,42 @@
+<h1 align="center">Hi, I'm Vladislav Begachev</h1>
+<p align="center"><strong>Unity Developer &amp; Architect</strong></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7E3BF2&center=true&vCenter=true&width=500&lines=🎮+Unity+Developer+%26+Architect;🤖+Automation+Evangelist;🚀+CI%2FCD+Pipeline+Expert;✨+Shader+Artist+%26+Optimizer;🛠️+Tooling+Specialist" alt="Typing SVG" />
+  <a href="mailto:vladbeg12201@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://t.me/vlabuser">Telegram</a>
 </p>
 
-<div align="center">
-  
-  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000)
-  ![Automation](https://img.shields.io/badge/AUTOMATION-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![DevOps](https://img.shields.io/badge/DEVOPS-00D26A?style=for-the-badge&logo=git&logoColor=white)
+---
 
-</div>
+I develop games with **Unity and C#**, working across gameplay systems, interfaces, online features, SDK integrations, and mobile and web builds.
+
+My focus is on the connection between architecture and day-to-day development: choosing technologies that fit the project, defining clear module boundaries, and creating reusable foundations that help a team move forward.
+
+### What I work on
+
+- **Game architecture and reusable systems.** Modular Unity templates, scene contexts, VContainer scope hierarchies, and assembly separation with asmdef. I also build shared systems for audio, UI animations, and project configuration.
+- **Gameplay, UI, and online features.** Game logic, interfaces, network solution evaluation, matchmaking, and bot fallback when a live opponent is unavailable.
+- **SDKs, builds, and releases.** Analytics, advertising, monetization, and localization integrations; Android, iOS, and WebGL builds; Gradle configuration and dependency conflict resolution.
+
+### How I work
+
+I contribute through code review, technical documentation, onboarding, and mentoring. I work with developers, designers, testers, and project managers, translating product requirements into technical tasks with context and acceptance criteria.
+
+I use AI to support everyday development, including commit messages and documentation. When a solution is useful beyond one task, I document it so the rest of the team can use it too.
+
+Outside game development, I enjoy music production and visual design.
 
 ---
 
-# 💫 Hello, I'm Vladislav Begachev!
+### Tech stack
 
-### 🎮 Unity Development Expertise
+| Area | Technologies |
+| :--- | :--- |
+| **Game development** | <img alt="Unity" src="https://img.shields.io/badge/Unity-26333F?style=flat-square&logo=Unity&logoColor=FFFFFF" /> <img alt="C#" src="https://img.shields.io/badge/C%23-26333F?style=flat-square&logo=csharp&logoColor=FFFFFF" /> <img alt="UniTask" src="https://img.shields.io/badge/UniTask-26333F?style=flat-square" /> <img alt="Addressables" src="https://img.shields.io/badge/Addressables-26333F?style=flat-square" /> |
+| **Architecture** | <img alt="VContainer" src="https://img.shields.io/badge/VContainer-26333F?style=flat-square" /> <img alt="Zenject" src="https://img.shields.io/badge/Zenject-26333F?style=flat-square" /> <img alt="R3" src="https://img.shields.io/badge/R3-26333F?style=flat-square" /> <img alt="UniRx" src="https://img.shields.io/badge/UniRx-26333F?style=flat-square" /> <img alt="MessagePipe" src="https://img.shields.io/badge/MessagePipe-26333F?style=flat-square" /> <img alt="asmdef" src="https://img.shields.io/badge/asmdef-26333F?style=flat-square" /> |
+| **UI & graphics** | <img alt="Unity UI" src="https://img.shields.io/badge/Unity%20UI-26333F?style=flat-square" /> <img alt="UI Toolkit" src="https://img.shields.io/badge/UI%20Toolkit-26333F?style=flat-square" /> <img alt="DOTween" src="https://img.shields.io/badge/DOTween-26333F?style=flat-square" /> <img alt="HLSL" src="https://img.shields.io/badge/HLSL-26333F?style=flat-square" /> <img alt="ShaderLab" src="https://img.shields.io/badge/ShaderLab-26333F?style=flat-square" /> <img alt="Shader Graph" src="https://img.shields.io/badge/Shader%20Graph-26333F?style=flat-square" /> <img alt="VFX Graph" src="https://img.shields.io/badge/VFX%20Graph-26333F?style=flat-square" /> |
+| **Services** | <img alt="Photon" src="https://img.shields.io/badge/Photon-26333F?style=flat-square" /> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-26333F?style=flat-square&logo=firebase&logoColor=FFCA28" /> <img alt="AppMetrica" src="https://img.shields.io/badge/AppMetrica-26333F?style=flat-square" /> <img alt="Appodeal" src="https://img.shields.io/badge/Appodeal-26333F?style=flat-square" /> <img alt="RevenueCat" src="https://img.shields.io/badge/RevenueCat-26333F?style=flat-square" /> <img alt="Unity Localization" src="https://img.shields.io/badge/Unity%20Localization-26333F?style=flat-square" /> |
+| **Development tools** | <img alt="Git" src="https://img.shields.io/badge/Git-26333F?style=flat-square&logo=git&logoColor=F05032" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-26333F?style=flat-square&logo=github&logoColor=FFFFFF" /> <img alt="Fork" src="https://img.shields.io/badge/Fork-26333F?style=flat-square" /> <img alt="Rider" src="https://img.shields.io/badge/Rider-26333F?style=flat-square&logo=rider&logoColor=FFFFFF" /> <img alt="Gradle" src="https://img.shields.io/badge/Gradle-26333F?style=flat-square&logo=gradle&logoColor=FFFFFF" /> <img alt="Odin Inspector" src="https://img.shields.io/badge/Odin%20Inspector-26333F?style=flat-square" /> |
+| **Automation** | <img alt="Python" src="https://img.shields.io/badge/Python-26333F?style=flat-square&logo=python&logoColor=FFD43B" /> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-26333F?style=flat-square" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-26333F?style=flat-square&logo=gnubash&logoColor=FFFFFF" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-26333F?style=flat-square&logo=githubactions&logoColor=FFFFFF" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-26333F?style=flat-square&logo=docker&logoColor=2496ED" /> |
+| **Planning & documentation** | <img alt="Jira" src="https://img.shields.io/badge/Jira-26333F?style=flat-square&logo=jira&logoColor=0052CC" /> <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-26333F?style=flat-square&logo=clickup&logoColor=7B68EE" /> <img alt="Yandex Wiki" src="https://img.shields.io/badge/Yandex%20Wiki-26333F?style=flat-square" /> <img alt="Outline" src="https://img.shields.io/badge/Outline-26333F?style=flat-square" /> |
 
-**Core Skills:**
-- Game architecture and system design
-- Performance optimization and profiling
-- Scriptable Object architecture
-- Addressable asset management
-- Custom editor tools development
-- UI system implementation with **DoTween** animations
-- Asynchronous programming with **UniTask**
-
-**Advanced Specializations:**
-- Shader programming and graphics optimization
-- Custom rendering pipelines
-- Physics and animation systems
-- Multi-platform development
-- **UI animations and transitions** using DoTween
-- **Async/await patterns** with UniTask for better performance
-
-### 🤖 AI-Powered Development
-
-Integrating AI tools into my development workflow to enhance productivity and code quality. Experimenting with AI-assisted commit message generation, code documentation, and intelligent code completion to streamline development processes.
-
-### 🛠️ Tech Stack & Tools
-
-**Game Development:**
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-Shader%20Lab-important?style=for-the-badge)
-![UniTask](https://img.shields.io/badge/UniTask-Async/Await-blue?style=for-the-badge)
-![DoTween](https://img.shields.io/badge/DoTween-Animation-green?style=for-the-badge)
-
-**DevOps & Automation:**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Programming Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🎨 Creative & Enthusiast Tools
-
-**Graphics & Design:**
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
-**Audio Production:**
-![FL Studio](https://img.shields.io/badge/FL%20Studio-000000?style=for-the-badge&logo=flstudio&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-
-### 📫 Let's Connect
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlabuser)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vlpay)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlpay)
-
----
-
-<!---
-vlpay/vlpay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Platforms:** `Android` · `iOS` · `WebGL` · `Windows` · `Yandex Games`
