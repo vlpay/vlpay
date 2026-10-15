@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vladislav Begachev</h1>
 <p align="center"><strong>Unity Developer &amp; Architect</strong></p>
 <p align="center">
-  <a href="mailto:vladbeg12201@gmail.com">Email</a> &nbsp;·&nbsp;
+  vladbeg12201@gmail.com &nbsp;·&nbsp;
   <a href="https://t.me/vlabuser">Telegram</a>
 </p>
 
